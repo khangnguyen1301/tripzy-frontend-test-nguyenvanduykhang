@@ -1,0 +1,102 @@
+[
+  {
+    "short_code": "MD",
+    "english_name": "Moldova, Republic of",
+    "code_state": "+373 - Moldova, Republic of"
+  },
+  {
+    "short_code": "MC",
+    "english_name": "Monaco",
+    "code_state": "+377 - Monaco"
+  },
+  {
+    "short_code": "AN",
+    "english_name": "Netherlands Antilles",
+    "code_state": "+599 - Netherlands Antilles"
+  },
+  {
+    "short_code": "NC",
+    "english_name": "New Caledonia",
+    "code_state": "+687 - New Caledonia"
+  },
+  {
+    "short_code": "NZ",
+    "english_name": "New Zealand",
+    "code_state": "+64 - New Zealand"
+  },
+  {
+    "short_code": "NU",
+    "english_name": "Niue",
+    "code_state": "+683 - Niue"
+  },
+  {
+    "short_code": "NF",
+    "english_name": "Norfolk Island",
+    "code_state": "+672 - Norfolk Island"
+  },
+  {
+    "short_code": "MP",
+    "english_name": "Northern Mariana Islands",
+    "code_state": "+1 670 - Northern Mariana Islands"
+  },
+  {
+    "short_code": "NO",
+    "english_name": "Norway",
+    "code_state": "+47 - Norway"
+  },
+  {
+    "short_code": "OM",
+    "english_name": "Oman",
+    "code_state": "+968 - Oman"
+  },
+  {
+    "short_code": "PK",
+    "english_name": "Pakistan",
+    "code_state": "+92 - Pakistan"
+  },
+  {
+    "short_code": "PW",
+    "english_name": "Palau",
+    "code_state": "+680 - Palau"
+  },
+  {
+    "short_code": "PS",
+    "english_name": "Palestinian Territory",
+    "code_state": "+970 - Palestinian Territory"
+  },
+  {
+    "short_code": "PA",
+    "english_name": "Panama",
+    "code_state": "+507 - Panama"
+  },
+  {
+    "short_code": "PG",
+    "english_name": "Papua New Guinea",
+    "code_state": "+675 - Papua New Guinea"
+  },
+  {
+    "short_code": "PY",
+    "english_name": "Paraguay",
+    "code_state": "+595 - Paraguay"
+  },
+  {
+    "short_code": "PE",
+    "english_name": "Peru",
+    "code_state": "+51 - Peru"
+  },
+  {
+    "short_code": "PH",
+    "english_name": "Philippines",
+    "code_state": "+63 - Philippines"
+  },
+  {
+    "short_code": "PN",
+    "english_name": "Pitcairn",
+    "code_state": "+872 - Pitcairn"
+  },
+  {
+    "short_code": "PL",
+    "english_name": "Poland",
+    "code_state": "+48 - Poland"
+  }
+]
