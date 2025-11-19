@@ -397,7 +397,7 @@ interface Location {
 
 ## 🔗 Demo
 
-_Demo link will be available after deployment to Vercel_
+[_Demo link _](https://tripzy-frontend-test-nguyenvanduykh.vercel.app/)
 
 ---
 
